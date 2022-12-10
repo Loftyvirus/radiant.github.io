@@ -1,6 +1,6 @@
 <p>
 <div id="header" align="Left">
-<a href="https://www.radiant.github.io">
+<a href="https://radiant.github.io">
 <img border="0"  src="https://media0.giphy.com/media/Ai6jGrjxJAp4Y8vVeF/200w.webp?cid=ecf05e473rd1hotbftyx9dhjt0xp8dn7jxdft802imlbf4ul&rid=200w.webp&ct=g" width="400" height="400"></a>
 </div>
 </p>
