@@ -1,5 +1,5 @@
 <code> USAGE </code>
-<p><code>1.The Bransh I pushed is (Master)</code></p>
+<p><code>1.The Branch I pushed is (Master)</code></p>
 <p><code>2.You have to click the gif to go to my webpage</code></p>
 <p><code>3.Still Under construction to make portals inside the webpage</code></p>
 
