@@ -12,3 +12,4 @@
 </br>
 <img src="https://media1.giphy.com/media/lNY0a9aJgFcCaDn1nw/200w.webp?cid=ecf05e47dwawxgsvvjw7dxhdi0qndgo4fwdmfx3ehoz6crh3&rid=200w.webp&ct=g" height="450" width="450">
 
+warning :- The background VIDEO is not being transmitted IDK why, if you have idea to resolve it then Try to ping me somewhere in my github repos or send a dm to my dc account <code>Radiant#2845 </code>
